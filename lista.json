@@ -1,86 +1,21 @@
 [
-  {
-    "nome": "Apk Edition",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Apk%20Edition.apk",
-    "versao": "1.0"
-  },
-  {
-    "nome": "Apk Bolha Auto",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/ApkBolhaauto.apk",
-    "versao": "1.0"
-  },
-  {
-    "nome": "Ativador JB 2.0",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/AtivadorJB%202.0.apk",
-    "versao": "2.0"
-  },
-  {
-    "nome": "Ativador JB 3.1",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/AtivadorJB%203.1.apk",
-    "versao": "3.1"
-  },
-  {
-    "nome": "Install With Options",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/InstallWithOptions_0.9.2-release.apk",
-    "versao": "0.9.2"
-  },
-  {
-    "nome": "Launcher Manager",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Launcher%20Manager_10.4.apk",
-    "versao": "10.4"
-  },
-  {
-    "nome": "Organizador Config",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Organizador%20Config.apk",
-    "versao": "1.0"
-  },
-  {
-    "nome": "Enviar arquivos para TV",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Enviar%20arquivos%20para%20a%20TV.apk",
-    "versao": "1.0"
-  },
-  {
-    "nome": "Set Mac JB",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Set%20Mac%20JB.apk",
-    "versao": "1.0"
-  },
-  {
-    "nome": "Youtube Android TV",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Youtube%20Androidtv.apk",
-    "versao": "1.0"
-  },
-  {
-    "nome": "Aptoide",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/aptoide-9-22-2-0.apk",
-    "versao": "9.22"
-  },
-  {
-    "nome": "ES File Explorer",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/es-file-explorer-4-4-2-2-1.apk",
-    "versao": "4.4.2"
-  },
-  {
-    "nome": "Magisk Manager",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/magisk-manager-30-7.apk",
-    "versao": "30.7"
-  },
-  {
-    "nome": "Root Checker",
-    "icone": "https://cdn-icons-png.flaticon.com/512/138/138316.png",
-    "apk": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/root-checker-6-5-11.apk",
-    "versao": "6.5.11"
-  }
+  {"nome": "Apk Edition", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Apk%20Editon.apk"},
+  {"nome": "Apk Bolha Auto", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/ApkBolhaauto.apk"},
+  {"nome": "Ativador JB 2.0", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/AtivadorJB%202.0.apk"},
+  {"nome": "Ativador JB 3.1", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/AtivadorJB%203.1.apk"},
+  {"nome": "Change My MAC", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Change%20My%20MAC%20-%20Spoof%20Wifi%20MAC_1.8.5_APKPure.apk"},
+  {"nome": "Install With Options", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/InstallWithOptions_0.9.2-release.apk"},
+  {"nome": "Launcher Manager", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Launcher%20Manager_1.0.4.apk"},
+  {"nome": "Organizador Config", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Organizador%20Config.apk"},
+  {"nome": "RS Gerenciador Pro", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/RS%20Gerenciador%20de%20Arquivos_Pro%20-%20v2.3.0.3_Tekmods.com.apk"},
+  {"nome": "Send Files To TV", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Send%20Files%20To%20TV.apk"},
+  {"nome": "Set Mac JB", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Set%20Mac%20JB.apk"},
+  {"nome": "Youtube Android TV", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/Youtube%20Androidtv.apk"},
+  {"nome": "App Store Eai Pro Nova", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/appstoreeaipronova.apk"},
+  {"nome": "Aptoide", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/aptoide-9-22-2-0.apk"},
+  {"nome": "ES File Explorer", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/es-file-explorer-4-4-2-2-1.apk"},
+  {"nome": "SuperSU", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/eu.chainfire.supersu_2.77-277_minAPI7(nodpi)_apkmirror.com.apk"},
+  {"nome": "Hack Unitv Free", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/hackUnitvfree.apk"},
+  {"nome": "Magisk Manager", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/magisk-manager-30-7.apk"},
+  {"nome": "Root Checker", "url": "https://raw.githubusercontent.com/sportfly730-code/Apks/main/root-checker-6-5-11.apk"}
 ]
